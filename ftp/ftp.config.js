@@ -1,20 +1,18 @@
 module.exports = {
   'test': {
     host: '',
-    port: 2,
+    port: 2048,
     user: '',
     password: '',
     localPath: [],
-    remotePath: '',
-    hasDirName: true
+    remotePath: ''
   },
   'sandbox': {
     host: '',
-    port: 2,
+    port: 21,
     user: '',
     password: '',
     localPath: [],
-    remotePath: '',
-    hasDirName: true
+    remotePath: ''
   }
 }
